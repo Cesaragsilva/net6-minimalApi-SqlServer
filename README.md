@@ -7,7 +7,7 @@ Artigo de estudo: https://www.youtube.com/watch?v=aXayqUfSNvw
 
     docker-compose up -d
 
-2 - Execute as migrations
+2 - Execute as migrations via PackageConsoleManager
 
-    update-database via PackageConsoleManager
+    update-database
     update-database -Context NetDevPackAppDbContext
